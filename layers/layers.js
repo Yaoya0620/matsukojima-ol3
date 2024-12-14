@@ -3,6 +3,7 @@ var wms_layers = [];
 
         var lyr__0 = new ol.layer.Tile({
             'title': '地理院地図',
+            'type': 'base',
             'opacity': 1.000000,
             
             
